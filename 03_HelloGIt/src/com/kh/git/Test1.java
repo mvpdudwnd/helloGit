@@ -6,5 +6,6 @@ public class Test1 {
 		System.out.println("안녕, 깃");
 		System.out.println("hello, git");
 		System.out.println("hello, git1");
+		System.out.println("hello, git1");
 	}
 }
